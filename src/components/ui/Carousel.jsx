@@ -32,15 +32,15 @@ export default function Carousel() {
                 navigation={true}
 
             >
-                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide </div></SwiperSlide>
-                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide </div></SwiperSlide>
-                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide </div></SwiperSlide>
-                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide </div></SwiperSlide>
-                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide </div></SwiperSlide>
-                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide </div></SwiperSlide>
-                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide </div></SwiperSlide>
-                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide </div></SwiperSlide>
-                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide </div></SwiperSlide>
+                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide1 </div></SwiperSlide>
+                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide2 </div></SwiperSlide>
+                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide3 </div></SwiperSlide>
+                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide4 </div></SwiperSlide>
+                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide5 </div></SwiperSlide>
+                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide6 </div></SwiperSlide>
+                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide7 </div></SwiperSlide>
+                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide8 </div></SwiperSlide>
+                <SwiperSlide><div className='min-h-[520px]  w-full'> Slide9 </div></SwiperSlide>
             </Swiper>
         </div>
     );
