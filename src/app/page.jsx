@@ -1,8 +1,11 @@
+import Carousel from '@/components/ui/Carousel'
 import React from 'react'
 
 function Home() {
   return (
-    <div>Home</div>
+    <div>
+      <Carousel/>
+    </div>
   )
 }
 
